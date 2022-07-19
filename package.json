@@ -1,0 +1,23 @@
+{
+  "name": "proyecto-bootstrap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nahuelpedemonte/pruba22.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nahuelpedemonte/pruba22/issues"
+  },
+  "homepage": "https://github.com/nahuelpedemonte/pruba22#readme",
+  "dependencies": {
+    "node-sass": "^7.0.1",
+    "nodemon": "^2.0.15"
+  }
+}
